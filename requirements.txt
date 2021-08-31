@@ -22,7 +22,6 @@ findspark
 pyspark
 avro
 ruamel-yaml
-getpass
 psycopg2
 pysqlite3
 IPython
