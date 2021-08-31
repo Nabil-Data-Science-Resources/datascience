@@ -30,5 +30,4 @@ qgrid
 lightning-python
 jupyter_dash
 dash
-textwrap
 plotly
