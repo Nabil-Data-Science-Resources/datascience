@@ -20,10 +20,9 @@ tabula
 docx
 findspark
 pyspark
-copy
 avro
 ruamel-yaml
-#getpass
+getpass
 psycopg2
 pysqlite3
 IPython
