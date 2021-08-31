@@ -9,8 +9,6 @@ numpy
 pandas
 scipy      
 seaborn
-pycopy
-urllib
 bs4
 requests
 csv
