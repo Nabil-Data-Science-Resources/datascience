@@ -15,8 +15,6 @@ python-csv
 selenium
 webdriver-manager
 twython
-collections
-json
 PyPDF2
 tabula
 docx
@@ -24,14 +22,14 @@ findspark
 pyspark
 copy
 avro
-yaml
-getpass
+ruamel-yaml
+#getpass
 psycopg2
-sqlite3
+pysqlite3
 IPython
 ipywidgets
 qgrid
-lightning
+lightning-python
 jupyter_dash
 dash
 textwrap
