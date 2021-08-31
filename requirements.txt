@@ -11,7 +11,7 @@ scipy
 seaborn
 bs4
 requests
-csv
+python-csv
 selenium
 webdriver-manager
 twython
